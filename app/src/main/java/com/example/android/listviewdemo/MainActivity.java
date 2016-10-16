@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
                             "Oppo",
                             "Micromax",
                             "Intex",
-                            "Karbonn",00
+                            "Karbonn",
                             "Vivo",
                             "Xolo",
                             "LYF"   };
